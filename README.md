@@ -1,0 +1,2 @@
+# CoreJavaMrinal
+Core Java Assignments
